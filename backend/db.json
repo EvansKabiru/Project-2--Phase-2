@@ -1,0 +1,157 @@
+{
+    "cargo": [
+      {
+        "id": 1,
+        "category": "Bulk Cargo",
+        "name": "Iron Ore",
+        "description": "A bulk shipment of iron ore.",
+        "weight": "20000 kg",
+        "status": "In Transit",
+        "conditionRating": 4
+      },
+      {
+        "id": 2,
+        "category": "Bulk Cargo",
+        "name": "Grain",
+        "description": "Bulk shipment of wheat grains.",
+        "weight": "15000 kg",
+        "status": "Delivered",
+        "conditionRating": 5
+      },
+      {
+        "id": 3,
+        "category": "Bulk Cargo",
+        "name": "Coal",
+        "description": "Bulk coal for energy production.",
+        "weight": "25000 kg",
+        "status": "Awaiting Dispatch",
+        "conditionRating": 3
+      },
+      {
+        "id": 4,
+        "category": "Bulk Cargo",
+        "name": "Cement",
+        "description": "Bulk shipment of cement bags.",
+        "weight": "18000 kg",
+        "status": "In Storage",
+        "conditionRating": 4
+      },
+      {
+        "id": 5,
+        "category": "Hazardous Cargo",
+        "name": "Chemical Solvent",
+        "description": "High-risk chemical solvents for industrial use.",
+        "weight": "5000 kg",
+        "status": "Awaiting Dispatch",
+        "conditionRating": 3
+      },
+      {
+        "id": 6,
+        "category": "Hazardous Cargo",
+        "name": "Compressed Gas",
+        "description": "Cylinders of compressed gas, handle with caution.",
+        "weight": "2000 kg",
+        "status": "In Transit",
+        "conditionRating": 4
+      },
+      {
+        "id": 7,
+        "category": "Hazardous Cargo",
+        "name": "Flammable Liquids",
+        "description": "Large shipment of flammable industrial oils.",
+        "weight": "3000 kg",
+        "status": "In Storage",
+        "conditionRating": 3
+      },
+      {
+        "id": 8,
+        "category": "Hazardous Cargo",
+        "name": "Explosive Material",
+        "description": "Explosive materials for mining purposes.",
+        "weight": "1200 kg",
+        "status": "Awaiting Dispatch",
+        "conditionRating": 2
+      },
+      {
+        "id": 9,
+        "category": "Refrigerated Cargo",
+        "name": "Fresh Salmon",
+        "description": "Shipment of frozen salmon.",
+        "weight": "1000 kg",
+        "status": "Delivered",
+        "conditionRating": 5
+      },
+      {
+        "id": 10,
+        "category": "Refrigerated Cargo",
+        "name": "Vaccines",
+        "description": "Medical vaccines requiring cold storage.",
+        "weight": "500 kg",
+        "status": "In Storage",
+        "conditionRating": 5
+      },
+      {
+        "id": 11,
+        "category": "Refrigerated Cargo",
+        "name": "Dairy Products",
+        "description": "Milk, cheese, and yogurt products kept in cold storage.",
+        "weight": "1500 kg",
+        "status": "In Transit",
+        "conditionRating": 4
+      },
+      {
+        "id": 12,
+        "category": "Refrigerated Cargo",
+        "name": "Frozen Meat",
+        "description": "Assorted frozen meat products.",
+        "weight": "2000 kg",
+        "status": "Awaiting Dispatch",
+        "conditionRating": 5
+      },
+      {
+        "id": 13,
+        "category": "General Cargo",
+        "name": "Electronics",
+        "description": "Assorted electronics including laptops and phones.",
+        "weight": "3000 kg",
+        "status": "In Transit",
+        "conditionRating": 4
+      },
+      {
+        "id": 14,
+        "category": "General Cargo",
+        "name": "Furniture",
+        "description": "Assorted office furniture items.",
+        "weight": "1200 kg",
+        "status": "Awaiting Dispatch",
+        "conditionRating": 5
+      },
+      {
+        "id": 15,
+        "category": "General Cargo",
+        "name": "Clothing",
+        "description": "Boxes of assorted clothing items.",
+        "weight": "2000 kg",
+        "status": "Delivered",
+        "conditionRating": 4
+      },
+      {
+        "id": 16,
+        "category": "General Cargo",
+        "name": "Stationery",
+        "description": "Bulk order of office stationery supplies.",
+        "weight": "500 kg",
+        "status": "In Storage",
+        "conditionRating": 5
+      },
+      {
+        "id": 17,
+        "category": "General Cargo",
+        "name": "Automobile Parts",
+        "description": "Assorted vehicle spare parts.",
+        "weight": "4000 kg",
+        "status": "In Transit",
+        "conditionRating": 3
+      }
+    ]
+  }
